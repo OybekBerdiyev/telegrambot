@@ -1,0 +1,30 @@
+[
+  {
+    "id": 5343557348,
+    "officeName": "Ok",
+    "tecnology": "Java, C++, C#",
+    "phoneNumber": "+998901234567",
+    "location": "Toshkan",
+    "hr": "Oybek",
+    "appealTime": "09:00-18:00",
+    "WorkTime": "09:00-18:00",
+    "price": "30000$",
+    "description": "Yo'q",
+    "status": "waiting",
+    "username": "Oybek25"
+  },
+  {
+    "id": 354074719,
+    "officeName": null,
+    "tecnology": null,
+    "phoneNumber": null,
+    "location": null,
+    "hr": null,
+    "appealTime": null,
+    "WorkTime": null,
+    "price": null,
+    "description": null,
+    "status": null,
+    "username": null
+  }
+]

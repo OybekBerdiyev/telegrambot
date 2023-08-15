@@ -1,0 +1,32 @@
+[
+  {
+    "userId": 5343557348,
+    "fistName": "Oybek",
+    "status": true,
+    "isAdmin": false
+  },
+  {
+    "userId": 1813894622,
+    "fistName": "Ilxom",
+    "status": true,
+    "isAdmin": false
+  },
+  {
+    "userId": 354074719,
+    "fistName": "ilyos",
+    "status": true,
+    "isAdmin": false
+  },
+  {
+    "userId": 2119769689,
+    "fistName": "DevX",
+    "status": true,
+    "isAdmin": false
+  },
+  {
+    "userId": 784562004,
+    "fistName": "Omadbek",
+    "status": true,
+    "isAdmin": false
+  }
+]

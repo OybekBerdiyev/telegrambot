@@ -1,0 +1,72 @@
+[
+  {
+    "id": 5343557348,
+    "fullName": "Najimboy",
+    "age": "17",
+    "tecnology": "Java, C++, C#",
+    "phoneNumber": "+998901234567",
+    "location": "Toshkan",
+    "price": "0",
+    "profission": "Talaba",
+    "appealTime": "09:00-18:00",
+    "goal": "Maqsadsiz daydi",
+    "status": null,
+    "username": "Oybek25"
+  },
+  {
+    "id": 1813894622,
+    "fullName": "Ilxom Majidov",
+    "age": "24",
+    "tecnology": "JavaScript, Phyton, C, Css, HTML, React,",
+    "phoneNumber": "+998901234567",
+    "location": "Toshkent",
+    "price": "10000$",
+    "profission": "Dasturchi",
+    "appealTime": "09:00-09:30",
+    "goal": "Ishlash",
+    "status": null,
+    "username": "ilxom_358_No1"
+  },
+  {
+    "id": 354074719,
+    "fullName": "Аа",
+    "age": "100",
+    "tecnology": "Джаба",
+    "phoneNumber": "+998915670021",
+    "location": "Таш",
+    "price": "75",
+    "profission": "А",
+    "appealTime": "09:44",
+    "goal": "Рр",
+    "status": null,
+    "username": "ilya_senpai"
+  },
+  {
+    "id": 2119769689,
+    "fullName": null,
+    "age": null,
+    "tecnology": null,
+    "phoneNumber": null,
+    "location": null,
+    "price": null,
+    "profission": null,
+    "appealTime": null,
+    "goal": null,
+    "status": null,
+    "username": null
+  },
+  {
+    "id": 784562004,
+    "fullName": "Omadbek",
+    "age": "24",
+    "tecnology": "Nest",
+    "phoneNumber": "+998999002559",
+    "location": "Andijon",
+    "price": "700",
+    "profission": "Najot",
+    "appealTime": "09:00",
+    "goal": "Jsgsuswg",
+    "status": null,
+    "username": "nasirullayev_omadbek"
+  }
+]
